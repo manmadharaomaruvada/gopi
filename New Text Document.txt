@@ -1,0 +1,3 @@
+git config --global user.email johndoe@example.com
+
+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
